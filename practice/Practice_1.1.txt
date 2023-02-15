@@ -1,0 +1,7 @@
+1. Calculator program using OOP approach.
+2. WAP to calculate student grade based on below rules
+
+90-100 --> A
+80-90 ---> b
+70-80 --> C
+Failure!!!
