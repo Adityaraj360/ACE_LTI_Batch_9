@@ -25,3 +25,4 @@ public class TestOOPs6 {
         calc.addition(12,35);
     }
 }
+
